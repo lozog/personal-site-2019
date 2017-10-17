@@ -1,16 +1,15 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle:
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Liam Ozog. I'm in my fourth year of studying computer science at the University of Waterloo.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Stuff I'm interested in:
+- software development
+- songwriting & music production
+- photography
+- graphic design & visual art
 
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I listen to [a lot](https://www.last.fm/user/Tom_Swift) of music. Sometimes I [make some](https://soundcloud.com/lozog), too. I also like [taking pictures](https://www.instagram.com/l__ozog/).
