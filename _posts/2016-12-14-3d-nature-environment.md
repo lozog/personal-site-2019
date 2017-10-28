@@ -3,8 +3,8 @@ layout: post
 title: 3D Nature Environment
 subtitle: with procedurally generated terrain and trees
 tags: [graphics, opengl, c++, procedural]
-image: /img/2016-12-14/hello_world.jpeg
-bigimg: https://lozog.github.io/img/2016-12-14/150%20-%20inparams2.png
+image: /img/2016-12-14/149%20-%20inparams1.png
+bigimg: /img/2016-12-14/150%20-%20inparams2.png
 ---
 
 This was my final project for the computer graphics course I took. Much of the inspiration for this project comes from David Whatley's chapter in GPU Gems 2, [Toward Photorealism in Virtual Botany](http://http.developer.nvidia.com/GPUGems2/gpugems2_chapter01.html). The aim was to combine principles of procedural generation with other graphics techniques to create an immersive, organic environment. You can find the source [here](https://github.com/lozog/Procedural-Nature-3D).
