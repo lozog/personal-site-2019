@@ -7,7 +7,8 @@ layout: null
 /* --- General --- */
 
 body {
-  font-family: 'Lora', 'Times New Roman', serif;
+  /*font-family: 'Lora', 'Times New Roman', serif;*/
+  font-family: 'Proxima Nova', Georgia, sans-serif;
   font-size: 18px;
   color: #404040;
   position: relative;
@@ -363,7 +364,8 @@ footer .theme-by {
   margin: 0 0 10px;
 }
 .post-preview .post-entry {
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  /*font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;*/
+  font-family: 'Proxima Nova', Georgia, sans-serif;
 }
 .post-entry-container {
   display: inline-block;
@@ -377,10 +379,10 @@ footer .theme-by {
   height: 192px;
   width: 192px;
   margin-top: -35px;
-  filter: grayscale(90%);
+  /*filter: grayscale(90%);*/
 }
 .post-image:hover {
-  filter: grayscale(0%);
+  /*filter: grayscale(0%);*/
 }
 .post-image img {
   border-radius: 100px;
