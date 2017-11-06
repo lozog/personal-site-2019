@@ -7,7 +7,7 @@ image: /img/2016-12-14/149%20-%20inparams1.png
 bigimg: /img/2016-12-14/150%20-%20inparams2.png
 ---
 
-This was my final project for the computer graphics course I took. Much of the inspiration for this project comes from David Whatley's chapter in GPU Gems 2, [Toward Photorealism in Virtual Botany](http://http.developer.nvidia.com/GPUGems2/gpugems2_chapter01.html). The aim was to combine principles of procedural generation with other graphics techniques to create an immersive, organic environment. You can find the source [here](https://github.com/lozog/Procedural-Nature-3D).
+This was my final project for the computer graphics course I took at the University of Waterloo (CS488). Much of the inspiration for this project comes from David Whatley's chapter in GPU Gems 2, [Toward Photorealism in Virtual Botany](http://http.developer.nvidia.com/GPUGems2/gpugems2_chapter01.html). The aim was to combine principles of procedural generation with other graphics techniques to create an immersive, organic environment. You can find the source [here](https://github.com/lozog/Procedural-Nature-3D).
 
 The biggest objectives of this project are procedural generation of terrain with [Perlin Noise](http://staffwww.itn.liu.se/~stegu/simplexnoise/simplexnoise.pdf) and procedural generation of trees with [Lindenmayer Systems](http://algorithmicbotany.org/papers/abop/abop-ch1.pdf).
 

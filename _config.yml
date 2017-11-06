@@ -27,6 +27,7 @@ navbar-links:
   Music:
     - Soundcloud: "https://soundcloud.com/lozog"
     - last.fm: "https://www.last.fm/user/Tom_Swift"
+  Photography: "https://www.instagram.com/l__ozog/"
   Github: "https://github.com/lozog"
 
 # Image to show in the navigation bar - image must be a square (width = height)
