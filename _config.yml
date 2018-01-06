@@ -24,6 +24,7 @@ description: My Site
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
+  Pages: "pages"
   Music:
     - Soundcloud: "https://soundcloud.com/lozog"
     - last.fm: "https://www.last.fm/user/Tom_Swift"
