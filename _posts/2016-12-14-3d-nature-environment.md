@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 3D Nature Environment
+title: 3D Nature Environment (C++)
 subtitle: with procedurally generated terrain and trees
 tags: [graphics, opengl, c++, procedural]
 image: /img/2016-12-14/149%20-%20inparams1.png
