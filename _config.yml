@@ -23,13 +23,13 @@ description: My Site
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
-  Pages: "pages"
+  Projects: "projects"
   Music:
     - Soundcloud: "https://soundcloud.com/lozog"
     - last.fm: "https://www.last.fm/user/Tom_Swift"
   Photography: "https://www.instagram.com/l__ozog/"
   Github: "https://github.com/lozog"
+  About Me: "aboutme"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
