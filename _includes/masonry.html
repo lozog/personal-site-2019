@@ -1,0 +1,14 @@
+<script src="https://unpkg.com/masonry-layout@4/dist/masonry.pkgd.min.js"></script>
+
+<script>
+	var $grid = $('.grid').masonry({
+	  itemSelector: '.grid-item',
+	  percentPosition: true,
+	  columnWidth: '.grid-sizer',
+	  gutter: '.gutter-sizer'
+	});
+	// layout Masonry after each image loads
+	$grid.imagesLoaded().progress( function() {
+	  $grid.masonry();
+	});
+</script>

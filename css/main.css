@@ -135,6 +135,38 @@ img {
   margin: 10px;
 }
 
+/* ---- grid ---- */
+
+.grid {
+  /*background: #DDD;*/
+}
+
+/* clear fix */
+.grid:after {
+  content: '';
+  display: block;
+  clear: both;
+}
+
+.gutter-sizer { width: 10px; }
+
+/* ---- .grid-item ---- */
+
+.grid-sizer,
+.grid-item {
+  width: 45%;
+}
+
+.grid-item {
+  float: left;
+  margin-bottom: 10px;
+}
+
+.grid-item img {
+  display: block;
+  max-width: 100%;
+}
+
 /* --- Navbar --- */
 
 .navbar-custom {
