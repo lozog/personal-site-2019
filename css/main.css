@@ -171,6 +171,14 @@ img {
   max-width: 100%;
 }
 
+/* --- Photography --- */
+
+.photo-section .section-header {
+  font-weight: 600;
+  font-size: 32px;
+  padding: 5px 0;
+}
+
 /* --- Navbar --- */
 
 .navbar-custom {
