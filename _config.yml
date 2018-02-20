@@ -27,7 +27,9 @@ navbar-links:
   Music:
     - Soundcloud: "https://soundcloud.com/lozog"
     - last.fm: "https://www.last.fm/user/Tom_Swift"
-  Photography: "https://www.instagram.com/l__ozog/"
+  Photography:
+    - Full Gallery: "photography"
+    - Instagram: "https://www.instagram.com/l__ozog/"
   Github: "https://github.com/lozog"
   About Me: "aboutme"
 
