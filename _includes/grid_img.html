@@ -1,3 +1,6 @@
 <div class="grid-item {{ include.fullwidth }}">
-  <img src="{{ include.path }}" />
+  
+  <a href="{{ include.path }}" data-fancybox="gallery" data-caption="{{ include.caption }}">
+  	<img src="{{ include.path }}" />
+  </a>
 </div>
