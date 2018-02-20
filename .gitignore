@@ -3,6 +3,8 @@ _site
 .sass-cache
 .vagrant
 todo.txt
+img/photography/*/original
+img/photography/*/original/*
 
 # general
 .DS_Store
