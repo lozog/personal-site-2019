@@ -31,6 +31,7 @@ navbar-links:
     - Full Gallery: "photography"
     - Instagram: "https://www.instagram.com/l__ozog/"
   Github: "https://github.com/lozog"
+  Resume: "liam-ozog-resume.pdf"
   About Me: "aboutme"
 
 # Image to show in the navigation bar - image must be a square (width = height)
