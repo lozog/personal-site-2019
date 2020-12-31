@@ -4,12 +4,11 @@ title: About me
 subtitle:
 ---
 
-My name is Liam Ozog. I'm in my fourth year of studying computer science at the University of Waterloo.
+Hi, I'm Liam. I like to [build stuff](https://github.com/lozog) and [write songs](https://tom-swift.bandcamp.com/). I also like [taking photos on film](https://www.instagram.com/l__ozog/) and I listen to [a lot](https://www.last.fm/user/Tom_Swift) of music.
+
 
 Stuff I'm interested in:  
 - software development  
 - songwriting & music production  
 - photography  
 - graphic design & visual art
-
-I listen to [a lot](https://www.last.fm/user/Tom_Swift) of music. Sometimes I [make some](https://soundcloud.com/lozog), too. I also like [taking pictures](https://www.instagram.com/l__ozog/).

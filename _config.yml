@@ -25,10 +25,11 @@ description: My Site
 navbar-links:
   Projects: "projects"
   Music:
-    - Soundcloud: "https://soundcloud.com/lozog"
+    - Bandcamp: "https://tom-swift.bandcamp.com/"
+    - Spotify: "https://open.spotify.com/artist/4Ap3RmZW14MSTCjR8X6aru?si=hwC00Zv6TnaIX2NHFozakg"
     - last.fm: "https://www.last.fm/user/Tom_Swift"
   Photography:
-    - Full Gallery: "photography"
+    - Abridged Gallery: "photography"
     - Instagram: "https://www.instagram.com/l__ozog/"
   Github: "https://github.com/lozog"
   Resume: "liam-ozog-resume.pdf"
